@@ -1,4 +1,5 @@
-{
+[
+  {
   "patientGuid": "Long-And-Bad-456",
   "firstName": "Sylvia",
   "lastName": "Plath",
@@ -24,5 +25,6 @@
   "firstName": "Chris",
   "lastName": "Chross",
   "dob": "1994-09-04",
-  "sexAtBirth": "F"
+  "sexAtBirth": "F "
 }
+]
